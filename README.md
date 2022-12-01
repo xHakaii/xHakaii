@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josh
-- 👀 I’m interested in programing
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing fuck off.
 - 📫 How to reach me i don't have any socials sorry.
